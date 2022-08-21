@@ -9,8 +9,8 @@ E1.4.
 2. The code include automatic download of  
   a. CIFAR10 dataset
   b. CIFAR10 models required for the experiments
-    i. Resnet-18 models
-    ii. Wideresnet models
+      i. Resnet-18 models
+      ii. Wideresnet models
   c. Imagenet models required for the experiment
     i. Resnet-50
 Note that the code does not include the Imagnet dataset.
@@ -20,9 +20,9 @@ algorithm.
 
 Requirements
 1. Appropriate hardware and software
-a. CIFAR10 can be ran on google colab (on the gpu framework)
-b. Imagenet requires stronger environments, we used four 3090 cards.
-c. Pytorch version 1.10 or higher
+  a. CIFAR10 can be ran on google colab (on the gpu framework)
+  b. Imagenet requires stronger environments, we used four 3090 cards.
+  c. Pytorch version 1.10 or higher
 2. To run the Imagenet experiments, the validation set of imagenet is required
 (ILSVRC2012_img_val.tar).
 
