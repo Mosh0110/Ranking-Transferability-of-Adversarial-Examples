@@ -15,8 +15,6 @@ ii. Wideresnet models
 c. Imagenet models required for the experiment
 i. Resnet-50
 Note that the code does not include the Imagnet dataset.
-Also, note that some of the downloads are from a google drive, an anonymous
-account was created to maintain double blinded restrictions.
 3. The final product of running the attached notebook is a plot of the specified dataset,
 scenario (general / resized / compressed / different architecture) and attack
 algorithm.
