@@ -6,13 +6,13 @@ and the instructions on how to use it.
 Content
 1. The attached code includes the code that runs experiment E1.1, E1.2, E1.3 and
 E1.4.
-2. The code include automatic download of
-a. CIFAR10 dataset
-b. CIFAR10 models required for the experiments
-i. Resnet-18 models
-ii. Wideresnet models
-c. Imagenet models required for the experiment
-i. Resnet-50
+2. The code include automatic download of  
+  a. CIFAR10 dataset
+  b. CIFAR10 models required for the experiments
+    i. Resnet-18 models
+    ii. Wideresnet models
+  c. Imagenet models required for the experiment
+    i. Resnet-50
 Note that the code does not include the Imagnet dataset.
 3. The final product of running the attached notebook is a plot of the specified dataset,
 scenario (general / resized / compressed / different architecture) and attack
