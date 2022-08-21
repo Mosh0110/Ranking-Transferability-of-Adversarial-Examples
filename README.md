@@ -1,7 +1,6 @@
 # Ranking-transferability-of-Adversarial-Examples
-Supplementary materials readme
-This is the additional material readme for the manuscript named “Transferability ranking for
-adversarial examples”. We include here the content of the supplied code. its requirements
+This is the code for the paper named “Transferability ranking for
+adversarial examples”. We include here the content of the code, its requirements
 and the instructions on how to use it.
 
 Content
