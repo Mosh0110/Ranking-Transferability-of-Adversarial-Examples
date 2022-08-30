@@ -1,4 +1,4 @@
-# Ranking-transferability-of-Adversarial-Examples
+# Ranking-Transferability-of-Adversarial-Examples
 This is the code for the paper named “Transferability ranking for
 adversarial examples”. 
 
