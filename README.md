@@ -1,7 +1,6 @@
 # Ranking-transferability-of-Adversarial-Examples
 This is the code for the paper named “Transferability ranking for
-adversarial examples”. We include here the content of the code, its requirements
-and the instructions on how to use it.
+adversarial examples”. 
 
 Content
 1. The attached code includes the code that runs experiment E1.1, E1.2, E1.3 and
