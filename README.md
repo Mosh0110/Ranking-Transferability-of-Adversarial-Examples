@@ -5,7 +5,7 @@ adversarial examples”.
 Content
 1. The attached code includes the code that runs experiment E1.1, E1.2, E1.3 and
 E1.4.
-2. The code include automatic download of  
+2. The code includes an automatic download of  
   a. CIFAR10 dataset
   b. CIFAR10 models required for the experiments
       i. Resnet-18 models
